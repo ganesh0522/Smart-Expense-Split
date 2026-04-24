@@ -1,0 +1,63 @@
+/* ===== GLOBAL RESET ===== */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: system-ui, -apple-system, sans-serif;
+  background-color: #f3f4f6; /* Tailwind gray-100 */
+}
+
+/* ===== SMOOTH UI ===== */
+
+* {
+  box-sizing: border-box;
+}
+
+/* ===== SCROLLBAR (OPTIONAL POLISH) ===== */
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #cbd5f5;
+  border-radius: 10px;
+}
+
+/* ===== COMMON CONTAINER ===== */
+
+.container {
+  max-width: 1100px;
+  margin: auto;
+  padding: 20px;
+}
+
+/* ===== CARD ENHANCEMENT ===== */
+
+.card-hover {
+  transition: all 0.2s ease-in-out;
+}
+
+.card-hover:hover {
+  transform: translateY(-2px);
+}
+
+/* ===== BUTTON TRANSITION ===== */
+
+button {
+  transition: all 0.2s ease;
+}
+
+/* ===== INPUT FOCUS ===== */
+
+input:focus {
+  outline: none;
+}
+
+/* ===== LOADING TEXT ===== */
+
+.loading {
+  text-align: center;
+  margin-top: 40px;
+  color: #6b7280;
+}
