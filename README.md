@@ -84,24 +84,6 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
-
-> Add your images in `/screenshots` and link them here.
-
-* **Dashboard**
-  ![Dashboard](screenshots/dashboard.png)
-
-* **Groups**
-  ![Groups](screenshots/groups.png)
-
-* **Group Details (Expenses + Balances)**
-  ![Group Details](screenshots/group-details.png)
-
-* **Activity Timeline**
-  ![Activity](screenshots/activity.png)
-
----
-
 ## 🔐 API Highlights
 
 * `POST /api/auth/register`
