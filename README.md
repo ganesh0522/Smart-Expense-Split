@@ -2,7 +2,7 @@
 
 A full-stack web application to split expenses among groups (like Splitwise), built with **Spring Boot + React**.
 
-🔗 **Live Demo**: <add link>
+🔗 **Live Demo**: <[add link](http://localhost:5173/)>
 
 ---
 
